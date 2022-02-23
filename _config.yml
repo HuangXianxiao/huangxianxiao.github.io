@@ -112,9 +112,7 @@ theme: jekyll-theme-cayman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repository:
-    github: git@github.com:godweiyang/godweiyang.github.io.git
-    coding: git@e.coding.net:godweiyang/godweiyang.git
+  repository: https://github.com/HuangXianxiao/huangxianxiao.github.io
   branch: master
 - type: baidu_url_submitter
 
